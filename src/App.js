@@ -1,8 +1,8 @@
-import { Person } from '@mui/icons-material';
+import Home from './components/pages/home/Home';
 
 function App() {
   return (
-    <Person />
+    <Home />
   );
 }
 

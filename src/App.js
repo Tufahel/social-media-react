@@ -1,8 +1,8 @@
+import { Person } from '@mui/icons-material';
+
 function App() {
   return (
-    <div>
-      Hello
-    </div>
+    <Person />
   );
 }
 

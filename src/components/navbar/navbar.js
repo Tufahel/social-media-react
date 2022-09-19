@@ -8,7 +8,7 @@ export default function navbar() {
   return (
     <div className="navbarContainer d-flex justify-content-between align-items-center px-4 py-2">
       <div className="navbarLeft">
-        <span className="logo">TufaOficial</span>
+        <span className="logo">TufaOfficial</span>
       </div>
       <div className="navbarCenter">
         <div className="searchbar">

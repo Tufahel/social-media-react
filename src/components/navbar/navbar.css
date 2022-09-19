@@ -5,6 +5,22 @@
   color: white;
 }
 
+.navbarLeft {
+  flex: 2;
+}
+
+.navbarCenter {
+  flex: 3.5;
+}
+
+.navbarCenter input {
+  width: 80%;
+}
+
+.navbarRight {
+  flex: 4;
+}
+
 .searchbarIcon {
   font-weight: bold !important;
 }

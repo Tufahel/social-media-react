@@ -1,0 +1,45 @@
+.navbarContainer {
+  position: sticky;
+  top: 0;
+  background-color: #1877f2;
+  color: white;
+}
+
+.navbarLeft {
+  flex: 2;
+}
+
+.navbarCenter {
+  flex: 3.5;
+}
+
+.navbarCenter input {
+  width: 80%;
+}
+
+.navbarRight {
+  flex: 4;
+}
+
+.searchbarIcon {
+  font-weight: bold !important;
+}
+
+.navbarImg {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.navbarIconBage {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 50%;
+  color: white;
+  position: absolute;
+  font-size: 15px;
+  text-align: center;
+}
